@@ -1,6 +1,6 @@
 ---
-Challenge: Consume Hacker News JSON Api
-Recommended completion time: 1 day
+Challenge: Consume a JSON API and display its values
+Completion time: 1 day
 ---
 
 ### The brief
